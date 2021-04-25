@@ -1,0 +1,577 @@
+ident,name,time,condition,clouds,visibility,winds,temperature,dew_point,pressure
+AYPY,Port Moresby Jacksons International Airport,25 Apr 2021 22:00,,,Greater than 10 km,Calm,,, mil
+BIKF,Keflavik International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,10 degrees at 14 knots,5,3,1028
+BKPR,Priština International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Variable at 1 knots,9,-1,1017
+CYEG,Edmonton International Airport,25 Apr 2021 22:00,Dry,A few at 2591 meters; a few at 7620 meters,32187 meters,290 degrees at 11 knots,9,-12,29.6
+CYHZ,Halifax / Stanfield International Airport,25 Apr 2021 22:00,Dry,Overcast sky at 3658 meters,24140 meters,140 degrees at 8 knots,10,4,29.8
+CYOW,Ottawa Macdonald-Cartier International Airport,25 Apr 2021 22:00,Dry,Scattered at 1067 meters,24140 meters,300 degrees at 19 knots,10,4,29.7
+CYUL,Montreal / Pierre Elliott Trudeau International Airport,25 Apr 2021 22:00,Dry,Overcast sky at 1463 meters,16093 meters,200 degrees at 4 knots,10,8,29.6
+CYVR,Vancouver International Airport,25 Apr 2021 22:00,Dry,Scattered at 914 meters; broken sky at 1067 meters; overcast sky at 2073 meters,32187 meters,120 degrees at 9 knots,11,7,29.7
+CYWG,Winnipeg / James Armstrong Richardson International Airport,25 Apr 2021 22:00,Dry,Overcast sky at 2073 meters,24140 meters,230 degrees at 13 knots,10,-5,29.8
+CYYC,Calgary International Airport,25 Apr 2021 22:00,Light snow,Scattered at 610 meters; overcast sky at 1524 meters,9656 meters,70 degrees at 7 knots,2,1,29.6
+CYYJ,Victoria International Airport,25 Apr 2021 22:00,Light showers of rain,A few at 671 meters; scattered at 1219 meters; overcast sky at 1951 meters,32187 meters,140 degrees at 5 knots,10,7,29.7
+CYYT,St. John's International Airport,25 Apr 2021 22:00,Dry,A few at 1372 meters,24140 meters,260 degrees at 13 knots,8,-2,30.0
+CYYZ,Lester B. Pearson International Airport,25 Apr 2021 22:00,Dry,Broken sky at 914 meters,24140 meters,300 degrees at 22 knots,5,-3,29.9
+DAAG,Houari Boumediene Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,150 degrees at 13 knots,25,7,1006
+DFFD,Ouagadougou Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,220 degrees at 6 knots,33,15,1009
+DGAA,Kotoka International Airport,25 Apr 2021 22:00,Dry,A few at 457 meters; scattered at 975 meters; broken sky at 1311 meters,Greater than 10 km,220 degrees at 8 knots,29,26,1011
+DNAA,Nnamdi Azikiwe International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,300 degrees at 4 knots,30,21,1011
+DNKN,Mallam Aminu International Airport,25 Apr 2021 22:00,Dry,A few at 549 meters,Greater than 10 km,250 degrees at 6 knots,30,13,1012
+DNMM,Murtala Muhammed International Airport,25 Apr 2021 22:00,Dry,A few at 366 meters,Greater than 10 km,Variable at 2 knots,28,25,1012
+DRRN,Diori Hamani International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,140 degrees at 4 knots,36,9,1008
+DTTA,Tunis Carthage International Airport,25 Apr 2021 22:00,Dry,A few at 792 meters,Greater than 10 km,120 degrees at 8 knots,17,13,1013
+EBBR,Brussels Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,30 degrees at 5 knots,3,1,1024
+EBCI,Brussels South Charleroi Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,40 degrees at 8 knots,5,0,1023
+EBLG,Liège Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,50 degrees at 8 knots,5,0,1023
+EDDB,Berlin-Schönefeld Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,350 degrees at 4 knots,3,-5,1024
+EDDC,Dresden Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,2,-1,1023
+EDDF,Frankfurt am Main Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,20 degrees at 9 knots,7,-2,1022
+EDDG,Münster Osnabrück Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,30 degrees at 7 knots,4,-1,1024
+EDDH,Hamburg Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,330 degrees at 3 knots,4,-3,1025
+EDDK,Cologne Bonn Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 1 knots,4,-2,1023
+EDDL,Düsseldorf Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,60 degrees at 2 knots,3,0,1024
+EDDM,Munich Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,30 degrees at 5 knots,5,-2,1019
+EDDN,Nuremberg Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,60 degrees at 5 knots,6,-3,1022
+EDDP,Leipzig/Halle Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,20 degrees at 6 knots,2,-4,1024
+EDDS,Stuttgart Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,50 degrees at 8 knots,7,-2,1020
+EDDT,Berlin-Tegel Airport,w at EDDT:,Clear,Clear sky, 4%,320 at 2kts,2.8, 2.8,1020
+EDDV,Hannover Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,130 degrees at 3 knots,4,-5,1025
+EDDW,Bremen Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,40 degrees at 4 knots,5,-2,1025
+EDLW,Dortmund Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,70 degrees at 3 knots,4,-2,1023
+EDSB,Karlsruhe Baden-Baden Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,20 degrees at 12 knots,9,-1,1019
+EETN,Lennart Meri Tallinn Airport,25 Apr 2021 22:20,Light rain,Broken sky at 244 meters; overcast sky at 396 meters,Greater than 10 km,310 degrees at 11 knots,2,0,1010
+EFHK,Helsinki Vantaa Airport,25 Apr 2021 22:20,Light snow,Broken sky at 183 meters,3500 meters,300 degrees at 8 knots,0,0,1009
+EGAA,Belfast International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,110 degrees at 3 knots,3,1,1028
+EGAC,George Best Belfast City Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,100 degrees at 2 knots,6,3,1028
+EGBB,Birmingham International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,80 degrees at 6 knots,5,1,1028
+EGCC,Manchester Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,90 degrees at 4 knots,6,2,1029
+EGCN,Robin Hood Doncaster Sheffield Airport,25 Apr 2021 22:20,Dry,Overcast sky at 732 meters,Greater than 10 km,50 degrees at 3 knots,6,2,1030
+EGFF,Cardiff International Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,70 degrees at 15 knots,9,3,1026
+EGGD,Bristol Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,60 degrees at 15 knots,6,1,1026
+EGGP,Liverpool John Lennon Airport,25 Apr 2021 22:20,Dry,A few at 549 meters,Greater than 10 km,80 degrees at 8 knots,8,4,1028
+EGGW,London Luton Airport,25 Apr 2021 22:20,Dry,Overcast sky at 701 meters,Greater than 10 km,40 degrees at 9 knots,5,1,1027
+EGHH,Bournemouth Airport,25 Apr 2021 18:50,Dry,Clear skies,Greater than 10 km,80 degrees at 11 knots,13,2,1024
+EGHI,Southampton Airport,25 Apr 2021 18:20,Dry,Clear skies,Greater than 10 km,60 degrees at 9 knots,12,2,1024
+EGKK,London Gatwick Airport,25 Apr 2021 22:20,Dry,A few at 732 meters,Greater than 10 km,50 degrees at 11 knots,5,0,1026
+EGLL,London Heathrow Airport,25 Apr 2021 22:20,Dry,Broken sky at 853 meters,Greater than 10 km,70 degrees at 11 knots,6,0,1027
+EGNM,Leeds Bradford Airport,25 Apr 2021 14:50,Dry,A few at 1311 meters,Greater than 10 km,80 degrees at 8 knots,12,1,1030
+EGNT,Newcastle Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,170 degrees at 1 knots,2,1,1029
+EGNX,East Midlands Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,60 degrees at 8 knots,4,0,1028
+EGPD,Aberdeen Dyce Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,190 degrees at 5 knots,5,1,1027
+EGPF,Glasgow International Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,280 degrees at 3 knots,7,5,1028
+EGPH,Edinburgh Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,250 degrees at 5 knots,6,5,1028
+EGSH,Norwich International Airport,25 Apr 2021 22:20,Dry,Overcast sky at 792 meters,Greater than 10 km,60 degrees at 9 knots,6,0,1028
+EGSS,London Stansted Airport,25 Apr 2021 22:20,Dry,Overcast sky at 762 meters,Greater than 10 km,50 degrees at 6 knots,5,0,1027
+EGTE,Exeter International Airport,25 Apr 2021 13:50,Dry,Clear skies,Greater than 10 km,30 degrees at 14 knots,16,2,1025
+EGUL,RAF Lakenheath,25 Apr 2021 22:06,Dry,Overcast sky at 914 meters,Greater than 10 km,40 degrees at 10 knots,6,-2,30.3
+EGUN,RAF Mildenhall,25 Apr 2021 21:56,Dry,Overcast sky at 945 meters,Greater than 10 km,50 degrees at 6 knots,6,2,30.3
+EGVA,RAF Fairford,25 Apr 2021 21:56,Dry,Clear skies,Greater than 10 km,60 degrees at 10 knots,6,2,30.3
+EGVN,RAF Brize Norton,25 Apr 2021 22:20,Dry,A few at 1219 meters,Greater than 10 km,50 degrees at 12 knots,5,1,1027
+EHAM,Amsterdam Airport Schiphol,25 Apr 2021 22:25,Dry,Clear skies,Greater than 10 km,20 degrees at 6 knots,4,0,1026
+EHEH,Eindhoven Airport,25 Apr 2021 22:25,Dry,Overcast sky at 5791 meters,Greater than 10 km,10 degrees at 8 knots,5,1,1025
+EICK,Cork Airport,25 Apr 2021 22:00,Dry,A few at 853 meters,Greater than 10 km,60 degrees at 7 knots,8,2,1026
+EIDW,Dublin Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Variable at 1 knots,2,1,1028
+EINN,Shannon Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,50 degrees at 7 knots,10,3,1026
+EKBI,Billund Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,350 degrees at 2 knots,-3,-7,1025
+EKCH,Copenhagen Kastrup Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,330 degrees at 8 knots,4,-2,1024
+EKYT,Aalborg Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,250 degrees at 2 knots,1,-2,1025
+ELLX,Luxembourg-Findel International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,50 degrees at 13 knots,6,-2,1020
+ENBO,Bodø Airport,25 Apr 2021 22:20,Dry,A few at 762 meters; broken sky at 1676 meters,Greater than 10 km,340 degrees at 6 knots,3,-3,1025
+ENBR,Bergen Airport Flesland,25 Apr 2021 22:20,Dry,A few at 914 meters; broken sky at 1676 meters,Greater than 10 km,350 degrees at 5 knots,5,-1,1026
+ENGM,Oslo Gardermoen Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,360 degrees at 8 knots,2,-7,1023
+ENTC,Tromsø Airport,25 Apr 2021 21:50,Light showers of snow,A few at 305 meters; scattered at 488 meters; broken sky at 914 meters,Greater than 10 km,270 degrees at 7 knots,1,-2,1024
+ENVA,Trondheim Airport Værnes,25 Apr 2021 22:20,Dry,Broken sky at 1829 meters,Greater than 10 km,310 degrees at 5 knots,2,-1,1027
+ENZV,Stavanger Airport Sola,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,330 degrees at 14 knots,5,0,1026
+EPGD,Gdańsk Lech Wałęsa Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,300 degrees at 4 knots,-1,-3,1020
+EPKK,Kraków John Paul II International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,310 degrees at 4 knots,0,-5,1020
+EPKT,Katowice International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Variable at 1 knots,-2,-4,1020
+EPMO,Modlin Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,250 degrees at 4 knots,0,-1,1020
+EPPO,Poznań-Ławica Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,310 degrees at 5 knots,2,-7,1022
+EPWA,Warsaw Chopin Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,290 degrees at 5 knots,1,-2,1020
+EPWR,Copernicus Wrocław Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,330 degrees at 7 knots,3,-3,1022
+ESGG,Gothenburg-Landvetter Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,310 degrees at 5 knots,2,-3,1022
+ESMS,Malmö Sturup Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,330 degrees at 5 knots,1,-4,1023
+ESPA,Luleå Airport,25 Apr 2021 22:20,Dry,Overcast sky at 1311 meters,Greater than 10 km,350 degrees at 12 knots,0,-7,1020
+ESSA,Stockholm-Arlanda Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,300 degrees at 8 knots,-1,-3,1019
+ETAR,Ramstein Air Base,25 Apr 2021 21:56,Dry,Clear skies,Greater than 10 km,70 degrees at 6 knots,4,-3,30.1
+EVRA,Riga International Airport,25 Apr 2021 22:20,Dry,Scattered at 274 meters; overcast sky at 488 meters,Greater than 10 km,290 degrees at 3 knots,2,1,1013
+EYVI,Vilnius International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,260 degrees at 7 knots,0,-4,1015
+FACT,Cape Town International Airport,25 Apr 2021 22:00,Dry,Broken sky at 183 meters,Greater than 10 km,10 degrees at 6 knots,17,15,1013
+FAGG,George Airport,25 Apr 2021 22:00,Dry,Scattered at 4572 meters,Greater than 10 km,Variable at 2 knots,16,15,1011
+FAJS,OR Tambo International Airport,w at FAOR:,Clear,Clear sky, 0%,165 at 3kts,13.1, 11.7,1014
+FAOR,OR Tambo International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,210 degrees at 6 knots,14,-3,1024
+FBSK,Sir Seretse Khama International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,290 degrees at 3 knots,12,2,1020
+FIMP,Sir Seewoosagur Ramgoolam International Airport,25 Apr 2021 22:00,In the vicinity  showers of,Scattered at 488 meters; broken sky at 1524 meters,8000 meters,80 degrees at 13 knots,25,23,1018
+FLLS,Kenneth Kaunda International Airport Lusaka,w at FLKK:,Clear,Clear sky, 0%,0 at 2kts,18, 17.9,1020
+FMMI,Ivato Airport,25 Apr 2021 22:00,Dry,A few at 427 meters; broken sky at 610 meters,Greater than 10 km,160 degrees at 4 knots,18,16,1021
+FNLU,Quatro de Fevereiro Airport,25 Apr 2021 21:00,Dry,Broken sky at 610 meters,Greater than 10 km,Variable at 3 knots,27,26,1009
+FQMA,Maputo Airport,25 Apr 2021 22:00,Dry,A few at 762 meters,Greater than 10 km,Variable at 2 knots,23,20,1016
+FSIA,Seychelles International Airport,25 Apr 2021 22:00,Dry,A few at 701 meters,Greater than 10 km,190 degrees at 3 knots,27,25,1009
+FTTJ,N'Djamena International Airport,25 Apr 2021 22:00,Dry,No significant clouds are observed,7000 meters,Calm,31,12,1007
+FVHA,Robert Gabriel Mugabe International Airport,w at FVRG:,Clouds,Scattered clouds, 47%,54 at 3kts,15.6, 15.1,1022
+FYWH,Hosea Kutako International Airport,25 Apr 2021 17:00,Dry,Clear skies,Greater than 10 km,320 degrees at 5 knots,18,6,1022
+FZAA,Ndjili International Airport,25 Apr 2021 22:00,Dry,Scattered at 488 meters; a few at 853 meters  cumulonimbus; broken sky at 2438 meters,7000 meters,200 degrees at 4 knots,27,22,1011
+GABS,Modibo Keita International Airport,25 Apr 2021 22:00,Dry,A few at 1006 meters,Greater than 10 km,220 degrees at 5 knots,31,15,1011
+GCLA,La Palma Airport,25 Apr 2021 22:00,Dry,Broken sky at 1463 meters,Greater than 10 km,210 degrees at 4 knots,21,14,1013
+GCLP,Gran Canaria Airport,25 Apr 2021 22:00,Dry,Scattered at 914 meters,Greater than 10 km,340 degrees at 5 knots,19,14,1013
+GCTS,Tenerife South Airport,25 Apr 2021 22:00,Dry,A few at 914 meters,Greater than 10 km,10 degrees at 5 knots,19,13,1013
+GCXO,Tenerife Norte Airport,25 Apr 2021 22:00,Dry,A few at 91 meters; broken sky at 366 meters,Greater than 10 km,290 degrees at 21 knots,15,14,1014
+GFLL,Lungi International Airport,w at GFLL:,Clouds,Broken clouds, 54%,197 at 8kts,27.1, 29,1011
+GLRB,Roberts International Airport,25 Apr 2021 22:00,Dry,A few at 427 meters; a few at 762 meters  cumulonimbus,Greater than 10 km,Calm,26,25,1010
+GMMN,Mohammed V International Airport,25 Apr 2021 22:00,Dry,A few at 1219 meters,Greater than 10 km,230 degrees at 5 knots,13,11,1011
+GOOY,Léopold Sédar Senghor International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,320 degrees at 4 knots,20,19,1012
+GVAC,Amílcar Cabral International Airport,25 Apr 2021 22:00,Dry,Broken sky at 427 meters,Greater than 10 km,50 degrees at 13 knots,21,15,1015
+HAAB,Addis Ababa Bole International Airport,25 Apr 2021 13:00,Dry,Broken sky at 610 meters; broken sky at 2134 meters,,100 degrees at 9 knots,16,12,1023
+HECA,Cairo International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,290 degrees at 12 knots,19,12,1009
+HEGN,Hurghada International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Calm,24,16,1007
+HELX,Luxor International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,260 degrees at 5 knots,27,7,1007
+HKJK,Jomo Kenyatta International Airport,25 Apr 2021 18:00,Dry,A few at 671 meters; scattered at 2438 meters,Greater than 10 km,50 degrees at 6 knots,19,17,1021
+HKMO,Mombasa Moi International Airport,25 Apr 2021 21:00,Dry,Broken sky at 671 meters,Greater than 10 km,190 degrees at 4 knots,27,25,1013
+HLLT,Tripoli International Airport,w at HLLT:,Clear,Clear sky, 0%,112 at 13kts,17.1, 16.5,1017
+HRYR,Kigali International Airport,25 Apr 2021 22:00,Dry,Scattered at 762 meters; scattered at 3048 meters,Greater than 10 km,160 degrees at 3 knots,17,17,1021
+HSSJ,Juba International Airport,w at HSSJ:,Rain,Light rain, 95%,221 at 3kts,22.3, 22.9,1011
+HSSS,Khartoum International Airport,w at HSSS:,Clear,Clear sky, 2%,2 at 11kts,34.4, 32,1009
+HTDA,Julius Nyerere International Airport,25 Apr 2021 22:00,Dry,Broken sky at 335 meters; a few at 396 meters  cumulonimbus,Greater than 10 km,210 degrees at 6 knots,25,24,1013
+HTZA,Abeid Amani Karume International Airport,25 Apr 2021 22:00,Dry,Scattered at 366 meters,Greater than 10 km,160 degrees at 12 knots,27,25,1012
+HUEN,Entebbe International Airport,25 Apr 2021 22:00,Dry,A few at 610 meters; a few at 671 meters  cumulonimbus,Greater than 10 km,Calm,20,18,1018
+KABQ,Albuquerque International Sunport,25 Apr 2021 21:52,Dry,A few at 4267 meters; scattered at 7620 meters,16093 meters,210 degrees at 10 knots,27,-12,29.8
+KADW,Joint Base Andrews,25 Apr 2021 21:56,Dry,Broken sky at 2438 meters,16093 meters,290 degrees at 14 knots,17,5,29.8
+KAFW,Fort Worth Alliance Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,160 degrees at 15 knots,27,14,29.8
+KAGS,Augusta Regional At Bush Field,25 Apr 2021 21:53,Dry,A few at 1676 meters,16093 meters,310 degrees at 8 knots,25,11,29.8
+KAMA,Rick Husband Amarillo International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,220 degrees at 20 knots,32,-7,29.7
+KATL,Hartsfield Jackson Atlanta International Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,310 degrees at 14 knots,20,8,29.9
+KAUS,Austin Bergstrom International Airport,25 Apr 2021 21:53,Dry,A few at 7620 meters,16093 meters,170 degrees at 10 knots,29,13,29.8
+KAVL,Asheville Regional Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,340 degrees at 15 knots,16,4,30.0
+KBAB,Beale Air Force Base,25 Apr 2021 22:10,Dry,Broken sky at 1341 meters; broken sky at 1676 meters; broken sky at 2286 meters,16093 meters,150 degrees at 16 knots,14,9,29.8
+KBAD,Barksdale Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,140 degrees at 5 knots,25,13,29.9
+KBDL,Bradley International Airport,25 Apr 2021 21:51,Dry,Broken sky at 1097 meters; overcast sky at 1341 meters,16093 meters,340 degrees at 9 knots,14,6,29.6
+KBFI,Boeing Field King County International Airport,25 Apr 2021 21:53,Dry,Scattered at 1067 meters; broken sky at 1676 meters; broken sky at 2591 meters,16093 meters,160 degrees at 8 knots,14,5,29.7
+KBGR,Bangor International Airport,25 Apr 2021 21:53,Dry,Broken sky at 1311 meters; broken sky at 1524 meters; overcast sky at 2286 meters,16093 meters,180 degrees at 9 knots,12,4,29.7
+KBHM,Birmingham-Shuttlesworth International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,10 degrees at 11 knots,21,8,30.0
+KBIL,Billings Logan International Airport,25 Apr 2021 21:53,Light rain,A few at 1219 meters; broken sky at 1829 meters; overcast sky at 2438 meters,16093 meters,360 degrees at 10 knots,12,3,29.5
+KBLV,Scott AFB/Midamerica Airport,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,Calm,18,8,30.0
+KBMI,Central Illinois Regional Airport at Bloomington-Normal,25 Apr 2021 21:56,Dry,A few at 3353 meters,16093 meters,Variable at 4 knots,15,2,30.0
+KBNA,Nashville International Airport,25 Apr 2021 21:53,Dry,A few at 1524 meters,16093 meters,340 degrees at 8 knots,22,4,30.0
+KBOI,Boise Air Terminal/Gowen Field,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,100 degrees at 8 knots,11,3,29.7
+KBOS,General Edward Lawrence Logan International Airport,25 Apr 2021 21:54,Dry,A few at 518 meters; broken sky at 975 meters; overcast sky at 2743 meters,16093 meters,360 degrees at 11 knots,13,5,29.6
+KBUF,Buffalo Niagara International Airport,25 Apr 2021 21:54,Dry,A few at 1067 meters; a few at 1676 meters,16093 meters,310 degrees at 18 knots,8,-2,29.9
+KBWI,Baltimore/Washington International Thurgood Marshall Airport,25 Apr 2021 21:54,Dry,Broken sky at 2286 meters; broken sky at 7620 meters,16093 meters,300 degrees at 15 knots,19,5,29.8
+KCAE,Columbia Metropolitan Airport,25 Apr 2021 21:56,Dry,Broken sky at 1676 meters,16093 meters,Calm,24,10,29.8
+KCBM,Columbus Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,10 degrees at 8 knots,23,8,30 i
+KCHA,Lovell Field,25 Apr 2021 21:53,Dry,A few at 1676 meters,16093 meters,20 degrees at 5 knots,21,7,30.0
+KCHS,Charleston Air Force Base-International Airport,25 Apr 2021 21:56,Dry,A few at 1463 meters,16093 meters,350 degrees at 11 knots,24,13,29.8
+KCID,The Eastern Iowa Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,130 degrees at 16 knots,11,-2,29.9
+KCLE,Cleveland Hopkins International Airport,25 Apr 2021 21:51,Dry,A few at 914 meters; a few at 7620 meters,16093 meters,350 degrees at 10 knots,10,1,30.0
+KCLT,Charlotte Douglas International Airport,25 Apr 2021 21:52,Dry,A few at 1829 meters; scattered at 7620 meters,16093 meters,20 degrees at 13 knots,21,7,29.9
+KCMH,John Glenn Columbus International Airport,25 Apr 2021 21:51,Dry,A few at 7620 meters,16093 meters,320 degrees at 11 knots,14,1,30.0
+KCOS,City of Colorado Springs Municipal Airport,25 Apr 2021 21:54,Dry,Scattered at 3962 meters,16093 meters,220 degrees at 21 knots,26,-6,29.6
+KCRP,Corpus Christi International Airport,25 Apr 2021 21:51,Dry,A few at 1067 meters; a few at 7620 meters,16093 meters,120 degrees at 14 knots,27,19,29.9
+KCRW,Yeager Airport,25 Apr 2021 21:54,Dry,Scattered at 1189 meters; broken sky at 1676 meters,16093 meters,240 degrees at 6 knots,15,7,29.9
+KCVG,Cincinnati Northern Kentucky International Airport,25 Apr 2021 21:52,Dry,A few at 1219 meters; scattered at 7620 meters,16093 meters,300 degrees at 12 knots,17,1,30.0
+KCVS,Cannon Air Force Base,25 Apr 2021 22:10,Dry,Clear skies,16093 meters,200 degrees at 18 knots,31,-11,29.7
+KDAB,Daytona Beach International Airport,25 Apr 2021 21:53,Dry,A few at 1219 meters,16093 meters,60 degrees at 9 knots,25,19,29.8
+KDAL,Dallas Love Field,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,130 degrees at 12 knots,28,13,29.8
+KDAY,James M Cox Dayton International Airport,25 Apr 2021 21:56,Dry,Scattered at 7620 meters,16093 meters,330 degrees at 10 knots,15,-2,30.0
+KDBQ,Dubuque Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,120 degrees at 10 knots,9,-6,30.0
+KDCA,Ronald Reagan Washington National Airport,25 Apr 2021 21:52,Dry,A few at 1676 meters; broken sky at 2438 meters; broken sky at 7620 meters,16093 meters,300 degrees at 9 knots,18,6,29.8
+KDEN,Denver International Airport,25 Apr 2021 21:53,Dry,A few at 3658 meters; scattered at 4877 meters; broken sky at 6706 meters,16093 meters,300 degrees at 8 knots,26,-6,29.6
+KDFW,Dallas Fort Worth International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,170 degrees at 15 knots,28,13,29.8
+KDLF,DLF Airport,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,150 degrees at 9 knots,33,10,29.8
+KDLH,Duluth International Airport,25 Apr 2021 21:55,Dry,Overcast sky at 2896 meters,16093 meters,90 degrees at 12 knots,5,-9,30.0
+KDOV,Dover Air Force Base,25 Apr 2021 21:56,Dry,Scattered at 1524 meters; broken sky at 2134 meters,16093 meters,290 degrees at 16 knots,18,7,29.7
+KDSM,Des Moines International Airport,25 Apr 2021 21:54,Dry,Scattered at 7620 meters,16093 meters,150 degrees at 21 knots,18,3,29.8
+KDTW,Detroit Metropolitan Wayne County Airport,25 Apr 2021 21:53,Dry,Scattered at 7620 meters,16093 meters,320 degrees at 13 knots,12,-4,30.0
+KDYS,Dyess Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,180 degrees at 13 knots,33,3,29.8
+KEDW,Edwards Air Force Base,25 Apr 2021 21:58,Dry,A few at 1524 meters; scattered at 4572 meters; broken sky at 9144 meters,96560 meters,230 degrees at 20 knots,19,2,29.7
+KEND,Vance Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,170 degrees at 20 knots,26,13,29.7
+KERI,Erie International Tom Ridge Field,25 Apr 2021 21:51,Dry,Clear skies,16093 meters,300 degrees at 11 knots,7,-1,30.0
+KEWR,Newark Liberty International Airport,25 Apr 2021 21:51,Dry,A few at 1067 meters; broken sky at 1829 meters; broken sky at 2438 meters; broken sky at 5182 meters,16093 meters,320 degrees at 13 knots,19,4,29.7
+KFFO,Wright-Patterson Air Force Base,25 Apr 2021 21:56,Dry,Broken sky at 7620 meters,16093 meters,310 degrees at 12 knots,15,-1,30.0
+KFLL,Fort Lauderdale Hollywood International Airport,25 Apr 2021 21:53,Dry,Scattered at 1829 meters,16093 meters,270 degrees at 13 knots,33,20,29.8
+KFSM,Fort Smith Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,160 degrees at 7 knots,26,7,29.9
+KFTW,Fort Worth Meacham International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,160 degrees at 14 knots,26,15,29.8
+KFWA,Fort Wayne International Airport,25 Apr 2021 21:54,Dry,Broken sky at 7620 meters,16093 meters,330 degrees at 9 knots,11,-1,30.0
+KGEG,Spokane International Airport,25 Apr 2021 21:53,Dry,Scattered at 1219 meters; scattered at 1981 meters; broken sky at 3962 meters; broken sky at 6096 meters,16093 meters,190 degrees at 10 knots,11,-1,29.6
+KGPT,Gulfport Biloxi International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,200 degrees at 6 knots,24,14,29.9
+KGRB,Austin Straubel International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,120 degrees at 7 knots,9,-6,30.0
+KGSB,Seymour Johnson Air Force Base,25 Apr 2021 21:56,Dry,Scattered at 1829 meters,16093 meters,350 degrees at 6 knots,21,9,29.8
+KGSO,Piedmont Triad International Airport,25 Apr 2021 21:54,Dry,Scattered at 1676 meters; scattered at 7620 meters,16093 meters,350 degrees at 8 knots,19,5,29.9
+KGSP,Greenville Spartanburg International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,10 degrees at 10 knots,21,6,29.9
+KGUS,Grissom Air Reserve Base,25 Apr 2021 21:56,Dry,Scattered at 6096 meters,16093 meters,350 degrees at 9 knots,11,0,30.0
+KHIB,Range Regional Airport,25 Apr 2021 21:53,Dry,Overcast sky at 2896 meters,16093 meters,130 degrees at 11 knots,7,-11,29.9
+KHMN,Holloman Air Force Base,25 Apr 2021 22:16,Dry,Clear skies,16093 meters,210 degrees at 11 knots,30,-11,29.8
+KHOU,William P Hobby Airport,25 Apr 2021 21:53,Dry,A few at 1219 meters; scattered at 7620 meters,16093 meters,130 degrees at 10 knots,27,15,29.9
+KHSV,Huntsville International Carl T Jones Field,25 Apr 2021 21:53,Dry,A few at 1829 meters,16093 meters,10 degrees at 8 knots,22,9,30.0
+KHTS,Tri-State/Milton J. Ferguson Field,25 Apr 2021 21:51,Dry,Broken sky at 1524 meters,16093 meters,270 degrees at 8 knots,17,7,30.0
+KIAD,Washington Dulles International Airport,25 Apr 2021 21:52,Dry,A few at 1524 meters; broken sky at 2286 meters; broken sky at 7620 meters,16093 meters,310 degrees at 14 knots,17,6,29.8
+KIAH,George Bush Intercontinental Houston Airport,25 Apr 2021 21:53,Dry,A few at 1524 meters; a few at 7620 meters,16093 meters,140 degrees at 11 knots,27,14,29.9
+KICT,Wichita Eisenhower National Airport,25 Apr 2021 21:53,Dry,A few at 1676 meters; a few at 4572 meters,16093 meters,190 degrees at 20 knots,24,12,29.7
+KIND,Indianapolis International Airport,25 Apr 2021 21:54,Dry,Scattered at 7620 meters,16093 meters,10 degrees at 6 knots,14,1,30.0
+KJAN,Jackson-Medgar Wiley Evers International Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,20 degrees at 5 knots,25,9,30 i
+KJAX,Jacksonville International Airport,25 Apr 2021 21:56,Dry,A few at 1219 meters,16093 meters,330 degrees at 4 knots,26,14,29.8
+KJFK,John F Kennedy International Airport,25 Apr 2021 21:51,Dry,Scattered at 1341 meters; broken sky at 2134 meters,16093 meters,340 degrees at 13 knots,17,6,29.7
+KJLN,Joplin Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,180 degrees at 15 knots,24,6,29.8
+KLAS,McCarran International Airport,25 Apr 2021 21:56,Dry,A few at 3658 meters; scattered at 4877 meters; broken sky at 6096 meters,16093 meters,250 degrees at 21 knots,25,-9,29.6
+KLAX,Los Angeles International Airport,25 Apr 2021 21:53,Dry,A few at 640 meters; scattered at 884 meters; scattered at 4572 meters; broken sky at 7620 meters,16093 meters,250 degrees at 10 knots,17,10,29.9
+KLBB,Lubbock Preston Smith International Airport,25 Apr 2021 21:53,Dry,A few at 5486 meters; scattered at 7620 meters,16093 meters,210 degrees at 19 knots,33,-8,29.7
+KLCK,Rickenbacker International Airport,25 Apr 2021 21:55,Dry,Clear skies,16093 meters,310 degrees at 11 knots,15,3,30.0
+KLEX,Blue Grass Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,Calm,15,7,30.0
+KLFI,Langley Air Force Base,25 Apr 2021 21:56,Dry,Scattered at 1676 meters,16093 meters,310 degrees at 10 knots,18,9,29.8
+KLFT,Lafayette Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,Variable at 3 knots,26,11,29.9
+KLGA,La Guardia Airport,25 Apr 2021 21:51,Dry,A few at 1463 meters; scattered at 1981 meters; broken sky at 7010 meters,16093 meters,320 degrees at 11 knots,17,6,29.7
+KLIT,Bill & Hillary Clinton National Airport/Adams Field,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,110 degrees at 9 knots,23,11,30 i
+KLTS,Altus Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,150 degrees at 19 knots,30,14,29.7
+KLUF,Luke Air Force Base,25 Apr 2021 22:06,,Clear skies,16093 meters,250 degrees at 14 knots,,, inH
+KMBS,MBS International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,310 degrees at 9 knots,9,-7,30.0
+KMCF,Mac Dill Air Force Base,25 Apr 2021 21:56,Dry,A few at 2134 meters,16093 meters,300 degrees at 8 knots,27,17,29.8
+KMCI,Kansas City International Airport,25 Apr 2021 21:53,Dry,A few at 4267 meters; a few at 6096 meters,16093 meters,160 degrees at 21 knots,24,8,29.7
+KMCO,Orlando International Airport,25 Apr 2021 21:53,Dry,A few at 1433 meters,16093 meters,260 degrees at 13 knots,30,16,29.8
+KMDW,Chicago Midway International Airport,25 Apr 2021 21:53,Dry,A few at 1829 meters; a few at 4877 meters; broken sky at 7620 meters,16093 meters,70 degrees at 9 knots,6,-5,30.1
+KMEM,Memphis International Airport,25 Apr 2021 21:54,Dry,A few at 1524 meters,16093 meters,180 degrees at 6 knots,23,8,30.0
+KMGE,Dobbins Air Reserve Base,25 Apr 2021 21:56,Dry,A few at 1372 meters,16093 meters,320 degrees at 13 knots,19,8,29.9
+KMGM,Montgomery Regional (Dannelly Field) Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,320 degrees at 9 knots,25,10,29.9
+KMHT,Manchester-Boston Regional Airport,25 Apr 2021 21:53,Dry,Broken sky at 1067 meters; broken sky at 6096 meters,16093 meters,30 degrees at 6 knots,12,6,29.6
+KMIA,Miami International Airport,25 Apr 2021 21:53,Dry,A few at 1524 meters,16093 meters,260 degrees at 11 knots,32,19,29.8
+KMKE,General Mitchell International Airport,25 Apr 2021 21:52,Dry,Broken sky at 7620 meters,16093 meters,70 degrees at 9 knots,5,-3,30.1
+KMLI,Quad City International Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,90 degrees at 12 knots,13,-2,30.0
+KMLU,Monroe Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,Calm,24,11,30.0
+KMOB,Mobile Regional Airport,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,10 degrees at 9 knots,26,11,29.9
+KMSN,Dane County Regional Truax Field,25 Apr 2021 21:53,Dry,A few at 3048 meters; scattered at 3962 meters; scattered at 6096 meters; broken sky at 7620 meters,16093 meters,130 degrees at 7 knots,9,-7,30.0
+KMSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,25 Apr 2021 21:53,Dry,Overcast sky at 1433 meters,16093 meters,120 degrees at 13 knots,6,-2,29.9
+KMSY,Louis Armstrong New Orleans International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,310 degrees at 6 knots,26,12,29.9
+KMUO,Mountain Home Air Force Base,25 Apr 2021 21:58,Dry,Broken sky at 2591 meters; broken sky at 3658 meters,16093 meters,40 degrees at 4 knots,11,6,29.7
+KOAK,Metropolitan Oakland International Airport,25 Apr 2021 21:53,Dry,A few at 305 meters; scattered at 549 meters; broken sky at 914 meters; overcast sky at 4267 meters,16093 meters,220 degrees at 14 knots,14,9,29.9
+KOKC,Will Rogers World Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,170 degrees at 22 knots,25,12,29.7
+KOMA,Eppley Airfield,25 Apr 2021 21:52,Dry,A few at 2438 meters; broken sky at 7620 meters,16093 meters,180 degrees at 22 knots,25,4,29.6
+KONT,Ontario International Airport,25 Apr 2021 21:53,Dry,A few at 1494 meters; broken sky at 7620 meters,16093 meters,290 degrees at 10 knots,21,6,29.8
+KORD,Chicago O'Hare International Airport,25 Apr 2021 21:51,Dry,A few at 1829 meters; scattered at 7620 meters,16093 meters,50 degrees at 11 knots,6,-5,30.1
+KORF,Norfolk International Airport,25 Apr 2021 21:51,Dry,A few at 1676 meters,16093 meters,350 degrees at 8 knots,19,8,29.8
+KPAM,Tyndall Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,280 degrees at 14 knots,23,15,29.9
+KPBI,Palm Beach International Airport,25 Apr 2021 21:53,Dry,Scattered at 1067 meters,16093 meters,270 degrees at 16 knots,33,18,29.8
+KPDX,Portland International Airport,25 Apr 2021 21:53,Dry,Broken sky at 1219 meters; broken sky at 1829 meters,16093 meters,Calm,15,4,29.7
+KPHF,Newport News Williamsburg International Airport,25 Apr 2021 21:54,Dry,A few at 1676 meters,16093 meters,320 degrees at 9 knots,18,8,29.8
+KPHL,Philadelphia International Airport,25 Apr 2021 21:54,Dry,A few at 1524 meters; broken sky at 2134 meters,16093 meters,310 degrees at 13 knots,18,6,29.7
+KPHX,Phoenix Sky Harbor International Airport,25 Apr 2021 21:51,Dry,A few at 7620 meters,16093 meters,310 degrees at 14 knots,34,-4,29.6
+KPIA,General Wayne A. Downing Peoria International Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,110 degrees at 8 knots,16,-1,30.0
+KPIT,Pittsburgh International Airport,25 Apr 2021 21:51,Dry,A few at 1524 meters; a few at 7620 meters,16093 meters,310 degrees at 15 knots,13,4,29.9
+KPVD,Theodore Francis Green State Airport,25 Apr 2021 22:14,Dry,Scattered at 823 meters; overcast sky at 1341 meters,16093 meters,350 degrees at 15 knots,13,6,29.6
+KPWM,Portland International Jetport Airport,25 Apr 2021 21:51,Dry,Scattered at 1372 meters; overcast sky at 1676 meters,16093 meters,90 degrees at 4 knots,11,5,29.7
+KRDU,Raleigh Durham International Airport,25 Apr 2021 21:51,Dry,Broken sky at 1829 meters,16093 meters,340 degrees at 9 knots,21,7,29.8
+KRFD,Chicago Rockford International Airport,25 Apr 2021 21:54,Dry,Broken sky at 4572 meters; overcast sky at 7620 meters,16093 meters,60 degrees at 6 knots,12,-6,30.0
+KRIC,Richmond International Airport,25 Apr 2021 21:54,Dry,A few at 1524 meters; scattered at 2438 meters; broken sky at 7620 meters,16093 meters,340 degrees at 16 knots,20,6,29.8
+KRND,Randolph Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,160 degrees at 12 knots,31,12,29.8
+KRNO,Reno Tahoe International Airport,25 Apr 2021 21:55,Dry,A few at 1676 meters; scattered at 2134 meters; broken sky at 3658 meters; broken sky at 4877 meters; broken sky at 6706 meters,16093 meters,190 degrees at 21 knots,12,-6,29.7
+KROA,Roanoke–Blacksburg Regional Airport,25 Apr 2021 21:54,Dry,Scattered at 1676 meters; scattered at 1829 meters,16093 meters,300 degrees at 13 knots,17,5,29.9
+KROC,Greater Rochester International Airport,25 Apr 2021 21:54,Dry,A few at 1372 meters; scattered at 7620 meters,16093 meters,320 degrees at 19 knots,9,0,29.8
+KRST,Rochester International Airport,25 Apr 2021 21:54,Dry,Broken sky at 3658 meters,16093 meters,110 degrees at 17 knots,7,-1,29.9
+KRSW,Southwest Florida International Airport,25 Apr 2021 21:53,Dry,A few at 792 meters,16093 meters,280 degrees at 9 knots,29,22,29.9
+KSAN,San Diego International Airport,25 Apr 2021 21:51,Dry,A few at 914 meters; a few at 7620 meters,16093 meters,290 degrees at 7 knots,18,9,29.9
+KSAT,San Antonio International Airport,25 Apr 2021 21:51,Dry,Scattered at 7620 meters,16093 meters,160 degrees at 10 knots,31,11,29.9
+KSAV,Savannah Hilton Head International Airport,25 Apr 2021 21:53,Dry,Scattered at 1280 meters; broken sky at 1524 meters,16093 meters,330 degrees at 10 knots,25,14,29.8
+KSBN,South Bend Regional Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,360 degrees at 10 knots,4,-3,30.1
+KSDF,Louisville International Standiford Field,25 Apr 2021 21:56,Dry,Broken sky at 1524 meters,16093 meters,80 degrees at 5 knots,19,6,30.0
+KSEA,Seattle Tacoma International Airport,25 Apr 2021 21:53,Dry,A few at 914 meters; scattered at 1524 meters; broken sky at 2591 meters,16093 meters,240 degrees at 10 knots,15,4,29.7
+KSFB,Orlando Sanford International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,260 degrees at 12 knots,30,8,29.8
+KSFO,San Francisco International Airport,25 Apr 2021 21:56,Light rain,A few at 610 meters; scattered at 1128 meters; broken sky at 1676 meters; overcast sky at 4572 meters,11265 meters,210 degrees at 15 knots,14,9,29.9
+KSGF,Springfield Branson National Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,160 degrees at 16 knots,23,7,29.9
+KSJC,Norman Y. Mineta San Jose International Airport,25 Apr 2021 21:53,Light rain,A few; broken sky at 1372 meters; overcast sky at 4877 meters,16093 meters,190 degrees at 7 knots,14,7,29.8
+KSKA,Fairchild Air Force Base,25 Apr 2021 21:58,Dry,A few at 1280 meters; scattered at 1524 meters; scattered at 2896 meters,16093 meters,190 degrees at 10 knots,13,0,29.6
+KSLC,Salt Lake City International Airport,25 Apr 2021 21:54,Dry,A few at 2591 meters; scattered at 3048 meters; broken sky at 4267 meters,16093 meters,330 degrees at 12 knots,16,2,29.6
+KSMF,Sacramento International Airport,25 Apr 2021 21:53,Dry,Broken sky at 1067 meters; broken sky at 1676 meters; overcast sky at 2896 meters,16093 meters,200 degrees at 20 knots,16,6,29.8
+KSNA,John Wayne Airport-Orange County Airport,25 Apr 2021 21:53,Dry,A few at 914 meters; scattered at 7620 meters,16093 meters,200 degrees at 13 knots,19,8,29.8
+KSPI,Abraham Lincoln Capital Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,100 degrees at 6 knots,17,4,30.0
+KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,160 degrees at 18 knots,29,13,29.7
+KSRQ,Sarasota Bradenton International Airport,25 Apr 2021 21:53,Dry,A few at 1067 meters,16093 meters,280 degrees at 10 knots,26,22,29.8
+KSSC,Shaw Air Force Base,25 Apr 2021 21:56,Dry,Broken sky at 1829 meters,16093 meters,330 degrees at 6 knots,25,10,29.8
+KSTL,St Louis Lambert International Airport,25 Apr 2021 21:51,Dry,A few at 5791 meters; scattered at 7620 meters,16093 meters,120 degrees at 7 knots,19,5,30.0
+KSUS,Spirit of St Louis Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,100 degrees at 9 knots,19,5,30 i
+KSUU,Travis Air Force Base,25 Apr 2021 22:13,Dry,Scattered at 671 meters; broken sky at 823 meters; broken sky at 3048 meters; broken sky at 6096 meters,16093 meters,190 degrees at 17 knots,17,8,29.8
+KSUX,Sioux Gateway Col. Bud Day Field,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,150 degrees at 16 knots,22,6,29.6
+KSYR,Syracuse Hancock International Airport,25 Apr 2021 21:54,Dry,Scattered at 1250 meters; scattered at 2286 meters,16093 meters,300 degrees at 20 knots,12,2,29.8
+KSZL,Whiteman Air Force Base,25 Apr 2021 21:56,Dry,A few at 4572 meters; scattered at 6096 meters,16093 meters,160 degrees at 14 knots,23,8,29.8
+KTCM,McChord Air Force Base,25 Apr 2021 22:14,Dry,Scattered at 1311 meters; broken sky at 1676 meters; overcast sky at 2134 meters,16093 meters,270 degrees at 16 knots,14,5,29.7
+KTIK,Tinker Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,180 degrees at 22 knots,25,12,29.8
+KTLH,Tallahassee Regional Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,360 degrees at 8 knots,26,13,29.9
+KTOL,Toledo Express Airport,25 Apr 2021 21:52,Dry,Clear skies,16093 meters,310 degrees at 7 knots,14,-3,30.0
+KTPA,Tampa International Airport,25 Apr 2021 21:53,Dry,A few at 1676 meters; a few at 7620 meters,16093 meters,270 degrees at 9 knots,27,17,29.9
+KTRI,Tri-Cities Regional TN/VA Airport,25 Apr 2021 21:53,Dry,Scattered at 1676 meters; scattered at 2134 meters; broken sky at 7620 meters,16093 meters,290 degrees at 8 knots,18,4,30.0
+KTUL,Tulsa International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,160 degrees at 18 knots,26,10,29.8
+KTUS,Tucson International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,220 degrees at 10 knots,33,-12,29.8
+KTYS,McGhee Tyson Airport,25 Apr 2021 21:53,Dry,A few at 1524 meters,16093 meters,80 degrees at 7 knots,18,7,30.0
+KVBG,Vandenberg Air Force Base,25 Apr 2021 22:13,Dry,Overcast sky at 244 meters,16093 meters,270 degrees at 6 knots,13,10,29.9
+KVPS,Destin-Ft Walton Beach Airport,25 Apr 2021 22:20,Haze,Clear skies,402 meters,360 degrees at 7 knots,27,11,29.9
+KWRB,Robins Air Force Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,320 degrees at 9 knots,25,12,29.9
+LATI,Tirana International Airport Mother Teresa,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,150 degrees at 4 knots,9,6,1016
+LBBG,Burgas Airport,25 Apr 2021 22:30,Dry,Scattered at 274 meters; broken sky at 427 meters,7000 meters,310 degrees at 3 knots,6,6,1018
+LBSF,Sofia Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,140 degrees at 6 knots,6,3,1017
+LBWN,Varna Airport,25 Apr 2021 22:30,Dry,Broken sky at 213 meters,9000 meters,280 degrees at 4 knots,4,4,1018
+LCLK,Larnaca International Airport,25 Apr 2021 22:30,Dry,A few at 122 meters,Greater than 10 km,Calm,15,12,1004
+LCPH,Paphos International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,20 degrees at 6 knots,15,7,1004
+LCRA,RAF Akrotiri,25 Apr 2021 21:50,Dry,Clear skies,Greater than 10 km,250 degrees at 7 knots,18,15,1004
+LDZA,Zagreb Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,50 degrees at 13 knots,12,0,1019
+LEAL,Alicante International Airport,25 Apr 2021 22:00,Dry,A few at 914 meters  cumulonimbus; broken sky at 1372 meters,Greater than 10 km,60 degrees at 10 knots,18,14,1007
+LEBL,Barcelona International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,50 degrees at 13 knots,17,9,1012
+LEMD,Adolfo Suárez Madrid–Barajas Airport,25 Apr 2021 22:00,Dry,A few at 274 meters; scattered at 457 meters,Greater than 10 km,170 degrees at 5 knots,11,11,1010
+LEMG,Málaga Airport,25 Apr 2021 22:00,Dry,A few at 2134 meters,Greater than 10 km,270 degrees at 4 knots,17,14,1009
+LEPA,Palma De Mallorca Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,60 degrees at 10 knots,16,12,1009
+LEST,Santiago de Compostela Airport,25 Apr 2021 22:00,Light showers of rain,A few at 1067 meters  towering cumulus,9000 meters,100 degrees at 3 knots,13,12,1009
+LFBD,Bordeaux-Mérignac Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,16,10,1010
+LFBO,Toulouse-Blagnac Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,130 degrees at 10 knots,15,6,1010
+LFLL,Lyon Saint-Exupéry Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,220 degrees at 3 knots,16,4,1013
+LFML,Marseille Provence Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,100 degrees at 3 knots,13,7,1013
+LFMN,Nice-Côte d'Azur Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,20 degrees at 2 knots,15,11,1015
+LFOA,Avord (BA 702) Air Base,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,50 degrees at 17 knots,14,1,1015
+LFPG,Charles de Gaulle International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,40 degrees at 14 knots,8,0,1020
+LFPO,Paris-Orly Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,30 degrees at 16 knots,10,0,1019
+LFSB,EuroAirport Basel-Mulhouse-Freiburg Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,330 degrees at 8 knots,9,-1,1017
+LGAV,Eleftherios Venizelos International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 3 knots,13,4,1016
+LGIR,Heraklion International Nikos Kazantzakis Airport,25 Apr 2021 22:20,Dry,A few at 610 meters; scattered at 914 meters,Greater than 10 km,290 degrees at 18 knots,16,10,1014
+LGTS,Thessaloniki Macedonia International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,100 degrees at 4 knots,10,8,1017
+LHBP,Budapest Liszt Ferenc International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,320 degrees at 6 knots,6,-5,1020
+LIBD,Bari Karol Wojtyła Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,230 degrees at 6 knots,10,5,1016
+LICC,Catania-Fontanarossa Airport,25 Apr 2021 22:20,Dry,Scattered at 1524 meters,Greater than 10 km,260 degrees at 6 knots,14,11,1018
+LICJ,Falcone–Borsellino Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,16,11,1017
+LIEE,Cagliari Elmas Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,180 degrees at 11 knots,16,10,1014
+LIMC,Malpensa International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,70 degrees at 3 knots,13,6,1014
+LIME,Il Caravaggio International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,20 degrees at 4 knots,15,8,1014
+LIMF,Turin Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,360 degrees at 4 knots,15,8,1013
+LIMJ,Genoa Cristoforo Colombo Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,15,10,1015
+LIML,Milano Linate Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,16,4,1014
+LIPE,Bologna Guglielmo Marconi Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,70 degrees at 4 knots,14,6,1014
+LIPH,Treviso-Sant'Angelo Airport,25 Apr 2021 22:20,Dry,Nil cloud detected,Greater than 10 km,Calm,14,10,1015
+LIPX,Verona Villafranca Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,80 degrees at 5 knots,16,6,1014
+LIPZ,Venice Marco Polo Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,20 degrees at 5 knots,14,11,1016
+LIRA,Ciampino–G. B. Pastine International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,13,8,1017
+LIRF,Leonardo da Vinci–Fiumicino Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,90 degrees at 4 knots,11,10,1017
+LIRN,Naples International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 1 knots,13,8,1018
+LIRP,Pisa International Airport,25 Apr 2021 22:15,Dry,Clear skies,Greater than 10 km,150 degrees at 6 knots,10,8,1017
+LJLJ,Ljubljana Jože Pučnik Airport,25 Apr 2021 22:30,Dry,A few at 701 meters; broken sky at 1981 meters,Greater than 10 km,130 degrees at 6 knots,11,6,1018
+LKPR,Václav Havel Airport Prague,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,290 degrees at 3 knots,1,-1,1023
+LLBG,Ben Gurion International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,21,11,1003
+LLOV,Ovda International Airport,w at LLOV:,Clear,Clear sky, 0%,160 at 6kts,26, 26,1007
+LMML,Malta International Airport,25 Apr 2021 22:15,Dry,Clear skies,Greater than 10 km,220 degrees at 4 knots,14,12,1018
+LOWW,Vienna International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,350 degrees at 3 knots,6,-3,1021
+LPFR,Faro Airport,25 Apr 2021 22:30,Dry,A few at 610 meters,Greater than 10 km,120 degrees at 4 knots,17,16,1008
+LPLA,Lajes Airport,25 Apr 2021 22:00,Dry,A few at 549 meters; broken sky at 762 meters,Greater than 10 km,Calm,16,13,1018
+LPPD,João Paulo II Airport,25 Apr 2021 22:30,Light showers of rain,A few at 488 meters; broken sky at 762 meters,Greater than 10 km,350 degrees at 9 knots,15,11,1016
+LPPR,Francisco de Sá Carneiro Airport,25 Apr 2021 22:30,Dry,A few at 823 meters,Greater than 10 km,Calm,15,14,1008
+LPPT,Humberto Delgado Airport (Lisbon Portela Airport),25 Apr 2021 22:30,Dry,A few at 366 meters; scattered at 1402 meters,Greater than 10 km,120 degrees at 4 knots,16,14,1008
+LQSA,Sarajevo International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,150 degrees at 3 knots,8,-1,1017
+LROP,Henri Coandă International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,210 degrees at 5 knots,8,3,1016
+LSGG,Geneva Cointrin International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,40 degrees at 6 knots,15,2,1014
+LSZH,Zürich Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,60 degrees at 12 knots,12,-3,1017
+LTAC,Esenboğa International Airport,25 Apr 2021 22:20,Dry,Scattered at 1067 meters; broken sky at 2743 meters,Greater than 10 km,40 degrees at 5 knots,10,9,1010
+LTAF,Adana Airport,25 Apr 2021 22:20,Dry,Scattered at 1067 meters; broken sky at 6096 meters,Greater than 10 km,Variable at 2 knots,16,15,1004
+LTAI,Antalya International Airport,25 Apr 2021 22:20,Dry,Scattered at 914 meters; broken sky at 3658 meters,Greater than 10 km,270 degrees at 4 knots,18,14,1005
+LTAJ,Gaziantep International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,Calm,18,8,1005
+LTBA,Atatürk International Airport,25 Apr 2021 22:20,Dry,A few at 610 meters; broken sky at 1219 meters,Greater than 10 km,70 degrees at 10 knots,10,6,1017
+LTBJ,Adnan Menderes International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,360 degrees at 15 knots,13,9,1010
+LTBS,Dalaman International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,90 degrees at 5 knots,14,13,1005
+LTCE,Erzurum International Airport,25 Apr 2021 22:20,Dry,Scattered at 1067 meters; broken sky at 2134 meters,Greater than 10 km,40 degrees at 4 knots,9,4,1016
+LTCG,Trabzon International Airport,25 Apr 2021 22:20,Light showers of rain,Scattered at 335 meters; broken sky at 792 meters,Greater than 10 km,100 degrees at 8 knots,12,10,1014
+LTFC,Süleyman Demirel International Airport,25 Apr 2021 22:20,Dry,Scattered at 914 meters; broken sky at 3048 meters,Greater than 10 km,340 degrees at 17 knots,13,7,1010
+LTFE,Milas Bodrum International Airport,25 Apr 2021 22:20,Dry,Clear skies,Greater than 10 km,70 degrees at 5 knots,16,11,1008
+LTFJ,Sabiha Gökçen International Airport,25 Apr 2021 22:20,Dry,Scattered at 274 meters; broken sky at 914 meters; broken sky at 2743 meters,Greater than 10 km,50 degrees at 12 knots,9,7,1016
+LWSK,Skopje Alexander the Great Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Calm,7,3,1016
+LYBE,Belgrade Nikola Tesla Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,360 degrees at 10 knots,11,2,1017
+LYPG,Podgorica Airport,25 Apr 2021 21:00,Dry,Clear skies,Greater than 10 km,210 degrees at 2 knots,13,6,1015
+LZIB,M. R. Štefánik Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,310 degrees at 2 knots,6,-3,1022
+MDPC,Punta Cana International Airport,25 Apr 2021 22:00,Dry,A few at 701 meters,Greater than 10 km,100 degrees at 12 knots,27,21,1014
+MDSD,Las Américas International Airport,25 Apr 2021 22:00,Dry,A few at 610 meters,Greater than 10 km,150 degrees at 8 knots,29,22,1013
+MGGT,La Aurora Airport,25 Apr 2021 22:00,Dry,A few at 671 meters,Greater than 10 km,20 degrees at 16 knots,29,14,1021
+MKJP,Norman Manley International Airport,25 Apr 2021 22:00,Dry,Scattered at 610 meters; scattered at 975 meters,Greater than 10 km,10 degrees at 9 knots,27,24,1013
+MMAA,General Juan N Alvarez International Airport,25 Apr 2021 21:44,Dry,Overcast sky at 9144 meters,9656 meters,230 degrees at 7 knots,30,22,29.7
+MMGL,Don Miguel Hidalgo Y Costilla International Airport,25 Apr 2021 21:43,Dry,No significant changes expected,11265 meters,340 degrees at 5 knots,32,0,30.0
+MMHO,General Ignacio P. Garcia International Airport,25 Apr 2021 21:40,Dry,A few at 2743 meters; broken sky at 6096 meters,16093 meters,240 degrees at 10 knots,34,-5,29.8
+MMMX,Licenciado Benito Juarez International Airport,25 Apr 2021 22:17,Dry,Scattered at 914 meters  cumulonimbus; broken sky at 2438 meters; broken sky at 6706 meters,8047 meters,90 degrees at 15 knots,27,5,30.1
+MMMY,General Mariano Escobedo International Airport,25 Apr 2021 21:40,Dry,No significant changes expected,16093 meters,110 degrees at 17 knots,35,5,29.8
+MMPR,Licenciado Gustavo Díaz Ordaz International Airport,25 Apr 2021 21:44,Dry,Broken sky at 8230 meters,24140 meters,220 degrees at 12 knots,27,23,29.8
+MMSD,Los Cabos International Airport,25 Apr 2021 21:44,Dry,Scattered at 7620 meters,16093 meters,130 degrees at 16 knots,28,0,29.8
+MMTJ,General Abelardo L. Rodríguez International Airport,25 Apr 2021 21:41,Dry,No significant changes expected,16093 meters,270 degrees at 11 knots,17,11,29.9
+MMUN,Cancún International Airport,25 Apr 2021 21:40,Dry,A few at 457 meters,11265 meters,150 degrees at 12 knots,30,22,29.9
+MPTO,Tocumen International Airport,25 Apr 2021 22:00,Dry,A few at 549 meters,Greater than 10 km,350 degrees at 9 knots,32,22,1008
+MRLB,Daniel Oduber Quiros International Airport,25 Apr 2021 22:00,Dry,A few at 1219 meters,Greater than 10 km,90 degrees at 10 knots,34,19,29.7
+MSLP,Monseñor Óscar Arnulfo Romero International Airport,25 Apr 2021 21:50,Dry,A few at 1524 meters,Greater than 10 km,210 degrees at 7 knots,31,22,1007
+MUHA,José Martí International Airport,25 Apr 2021 21:55,Dry,A few at 610 meters  towering cumulus; scattered at 1219 meters,9000 meters,340 degrees at 10 knots,30,22,1014
+MUVR,Juan Gualberto Gomez International Airport,25 Apr 2021 21:50,Dry,Scattered at 549 meters  cumulonimbus,9000 meters,360 degrees at 10 knots,28,22,1014
+MWCR,Owen Roberts International Airport,25 Apr 2021 22:00,Dry,A few at 549 meters,Greater than 10 km,150 degrees at 5 knots,29,23,1013
+MYNN,Lynden Pindling International Airport,25 Apr 2021 22:00,Dry,A few at 457 meters  cumulonimbus,Greater than 10 km,200 degrees at 9 knots,27,20,29.9
+MZBZ,Philip S. W. Goldson International Airport,25 Apr 2021 22:00,Dry,A few at 762 meters,Greater than 10 km,50 degrees at 9 knots,30,24,29.8
+NCRG,Rarotonga International Airport,25 Apr 2021 22:30,Dry,Scattered at 610 meters,Greater than 10 km,260 degrees at 11 knots,28,24,1012
+NTAA,Faa'a International Airport,25 Apr 2021 22:30,Dry,A few at 792 meters  towering cumulus,Greater than 10 km,30 degrees at 6 knots,30,23,1014
+NZAA,Auckland International Airport,25 Apr 2021 22:00,Light rain,A few at 1006 meters; scattered at 1219 meters,Greater than 10 km,220 degrees at 5 knots,16,14,1013
+NZCH,Christchurch International Airport,25 Apr 2021 22:00,Dry,Nil cloud detected,Greater than 10 km,60 degrees at 4 knots,10,4,1005
+NZWN,Wellington International Airport,25 Apr 2021 22:00,Dry,Nil cloud detected,Greater than 10 km,10 degrees at 7 knots,14,8,1009
+OBBI,Bahrain International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,160 degrees at 5 knots,28,19,1008
+OEDF,King Fahd International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,210 degrees at 5 knots,25,13,1008
+OEDR,King Abdulaziz Air Base,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Variable at 2 knots,25,18,1007
+OEJN,King Abdulaziz International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Calm,30,15,1007
+OEMA,Prince Mohammad Bin Abdulaziz Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,80 degrees at 10 knots,28,7,1015
+OERK,King Khaled International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Calm,25,4,1012
+OIIE,Imam Khomeini International Airport,25 Apr 2021 22:00,Dry,A few at 1219 meters; scattered at 3048 meters,Greater than 10 km,360 degrees at 8 knots,20,6,1015
+OIII,Mehrabad International Airport,25 Apr 2021 22:30,Dry,A few at 3048 meters; scattered at 5486 meters,Greater than 10 km,70 degrees at 8 knots,25,1,1016
+OIMM,Mashhad International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,180 degrees at 4 knots,18,3,1019
+OISS,Shiraz Shahid Dastghaib International Airport,25 Apr 2021 22:30,Dry,A few at 1219 meters; scattered at 6096 meters,8000 meters,260 degrees at 4 knots,17,3,1019
+OITT,Tabriz International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,40 degrees at 6 knots,16,-1,1018
+OJAI,Queen Alia International Airport,25 Apr 2021 22:00,Haze,No significant clouds are observed,5000 meters,30 degrees at 3 knots,17,8,1009
+OKBK,Kuwait International Airport,25 Apr 2021 22:00,Widespread dust,No significant changes expected,2500 meters,230 degrees at 3 knots,25,4,1007
+OLBA,Beirut Rafic Hariri International Airport,25 Apr 2021 22:00,Dry,No significant clouds are observed,8000 meters,150 degrees at 2 knots,20,13,1005
+OMAA,Abu Dhabi International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,60 degrees at 3 knots,29,8,1008
+OMDB,Dubai International Airport,25 Apr 2021 22:00,Dry,No significant clouds are observed,8000 meters,120 degrees at 3 knots,32,9,1008
+OMSJ,Sharjah International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,110 degrees at 2 knots,26,11,1008
+OOMS,Muscat International Airport,25 Apr 2021 21:50,Dry,Clear skies,Greater than 10 km,70 degrees at 12 knots,30,25,1008
+ORBI,Baghdad International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,190 degrees at 6 knots,29,8,1006
+ORMM,Basrah International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,150 degrees at 6 knots,29,5,1007
+OSAP,Aleppo International Airport,25 Apr 2021 18:00,Dry,Clear skies,Greater than 10 km,270 degrees at 4 knots,26,12,1006
+OSDI,Damascus International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,Calm,16,3,1008
+OSLK,Bassel Al-Assad International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,60 degrees at 2 knots,16,11,1004
+PAFA,Fairbanks International Airport,25 Apr 2021 21:53,Dry,Clear skies,16093 meters,Calm,13,-3,29.8
+PANC,Ted Stevens Anchorage International Airport,25 Apr 2021 21:53,Dry,A few at 2438 meters,16093 meters,330 degrees at 5 knots,11,0,29.9
+PGUM,Antonio B. Won Pat International Airport,25 Apr 2021 21:54,Dry,Clear skies,16093 meters,180 degrees at 4 knots,26,24,29.8
+PHNL,Daniel K Inouye International Airport,25 Apr 2021 21:53,Dry,A few at 732 meters; scattered at 1372 meters; broken sky at 1829 meters,16093 meters,40 degrees at 15 knots,28,18,30.1
+RCBS,Kinmen Airport,w at RCBS:,Clear,Clear sky, 0%,30 at 6kts,20, 19.8,1015
+RCKH,Kaohsiung International Airport,25 Apr 2021 22:30,Light rain,A few at 366 meters; scattered at 792 meters; broken sky at 1158 meters,6000 meters,10 degrees at 1 knots,23,21,1012
+RCTP,Taiwan Taoyuan International Airport,25 Apr 2021 22:30,Dry,A few at 610 meters; scattered at 1219 meters; broken sky at 2743 meters,Greater than 10 km,50 degrees at 14 knots,23,16,1014
+RJAA,Narita International Airport,25 Apr 2021 22:22,Dry,A few at 914 meters,Greater than 10 km,10 degrees at 17 knots,11,-3,1017
+RJBB,Kansai International Airport,25 Apr 2021 22:00,Dry,A few at 914 meters,Greater than 10 km,40 degrees at 9 knots,11,1,1020
+RJCC,New Chitose Airport,25 Apr 2021 22:00,Dry,A few at 914 meters,Greater than 10 km,340 degrees at 18 knots,2,-7,1020
+RJFF,Fukuoka Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,50 degrees at 3 knots,12,2,1021
+RJFK,Kagoshima Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,30 degrees at 4 knots,12,9,1017
+RJGG,Chubu Centrair International Airport,25 Apr 2021 22:00,Dry,A few at 914 meters,Greater than 10 km,330 degrees at 24 knots,12,-2,1017
+RJOO,Osaka International Airport,25 Apr 2021 22:00,Dry,A few at 914 meters,Greater than 10 km,Variable at 1 knots,11,2,1020
+RJTT,Tokyo Haneda International Airport,25 Apr 2021 22:00,Dry,A few at 1219 meters,Greater than 10 km,20 degrees at 13 knots,12,-2,1018
+RJTY,Yokota Air Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,340 degrees at 15 knots,11,-6,30.1
+RKJK,Kunsan Air Base,25 Apr 2021 21:56,Mist,Scattered at 914 meters,8047 meters,360 degrees at 2 knots,10,9,30.1
+RKPC,Jeju International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,100 degrees at 12 knots,14,8,1021
+RKPK,Gimhae International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,340 degrees at 2 knots,10,5,1023
+RKSI,Incheon International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,140 degrees at 13 knots,14,2,1022
+RKSO,Osan Air Base,25 Apr 2021 21:58,Dry,Clear skies,11265 meters,80 degrees at 3 knots,10,5,30.1
+RKSS,Gimpo International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,180 degrees at 6 knots,14,-2,1022
+RKTU,Cheongju International Airport/Cheongju Air Base (K-59/G-513),25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,310 degrees at 2 knots,9,3,1022
+ROAH,Naha Airport,25 Apr 2021 22:00,Dry,A few at 762 meters,Greater than 10 km,30 degrees at 5 knots,20,16,1015
+RODN,Kadena Air Base,25 Apr 2021 21:56,Dry,Clear skies,16093 meters,50 degrees at 6 knots,16,15,29.9
+RPLC,Diosdado Macapagal International Airport,25 Apr 2021 22:00,Dry,Scattered at 610 meters; broken sky at 3048 meters,8000 meters,250 degrees at 4 knots,24,21,1011
+RPLL,Ninoy Aquino International Airport,25 Apr 2021 22:00,Dry,A few at 762 meters; broken sky at 3048 meters,Greater than 10 km,100 degrees at 3 knots,27,23,1010
+RPMD,Francisco Bangoy International Airport,25 Apr 2021 22:00,Dry,A few at 488 meters; broken sky at 2743 meters; broken sky at 7925 meters,Greater than 10 km,30 degrees at 3 knots,25,25,1010
+RPVM,Mactan Cebu International Airport,25 Apr 2021 22:00,Dry,A few at 610 meters; scattered at 3048 meters; broken sky at 7620 meters,Greater than 10 km,Variable at 2 knots,25,23,1011
+SAEZ,Ministro Pistarini International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,270 degrees at 3 knots,16,14,1019
+SBBE,Val de Cans/Júlio Cezar Ribeiro International Airport,25 Apr 2021 22:22,Thunderstorms rain,A few at 396 meters; broken sky at 518 meters; broken sky at 914 meters; a few at 1006 meters  cumulonimbus,1000 meters,150 degrees at 12 knots,25,23,1010
+SBBR,Presidente Juscelino Kubistschek International Airport,25 Apr 2021 22:00,Showers of rain,Broken sky at 1219 meters; a few at 1372 meters  towering cumulus; broken sky at 2134 meters,8000 meters,360 degrees at 9 knots,22,18,1017
+SBCF,Tancredo Neves International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,310 degrees at 2 knots,26,13,1014
+SBCT,Afonso Pena Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,330 degrees at 3 knots,18,14,1016
+SBFL,Hercílio Luz International Airport,25 Apr 2021 22:00,Dry,Broken sky at 1372 meters,Greater than 10 km,150 degrees at 5 knots,23,18,1011
+SBGL,Rio Galeão – Tom Jobim International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,160 degrees at 8 knots,24,21,1011
+SBGR,Guarulhos - Governador André Franco Montoro International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,160 degrees at 1 knots,21,16,1015
+SBSG,Governador Aluízio Alves International Airport,25 Apr 2021 22:00,Dry,Scattered at 640 meters,Greater than 10 km,170 degrees at 6 knots,26,23,1011
+SBSP,Congonhas Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,170 degrees at 4 knots,21,17,1016
+SBSV,Deputado Luiz Eduardo Magalhães International Airport,25 Apr 2021 22:00,Dry,Scattered at 610 meters,Greater than 10 km,90 degrees at 9 knots,27,22,1012
+SCEL,Comodoro Arturo Merino Benítez International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,190 degrees at 9 knots,22,7,1014
+SELT,Cotopaxi International Airport,25 Apr 2021 22:00,Dry,Broken sky at 914 meters; scattered at 9144 meters,Greater than 10 km,170 degrees at 15 knots,15,8,1026
+SEQM,Mariscal Sucre International Airport,25 Apr 2021 22:00,Dry,Scattered at 914 meters; scattered at 2743 meters,Greater than 10 km,360 degrees at 13 knots,19,13,1022
+SKBO,El Dorado International Airport,25 Apr 2021 22:00,Dry,A few at 457 meters  towering cumulus; broken sky at 518 meters,Greater than 10 km,230 degrees at 6 knots,17,13,1023
+SLVR,Viru Viru International Airport,25 Apr 2021 22:00,Dry,A few at 762 meters; broken sky at 2134 meters,Greater than 10 km,160 degrees at 8 knots,21,17,1016
+SPIM,Jorge Chávez International Airport,w at SPJC:,Clouds,Scattered clouds, 40%,290 at 5kts,18.5, 18.4,1012
+SPZO,Alejandro Velasco Astete International Airport,25 Apr 2021 22:30,Dry,Scattered at 1524 meters,Greater than 10 km,350 degrees at 5 knots,17,2,1028
+SUMU,Carrasco International /General C L Berisso Airport,25 Apr 2021 22:00,Dry,Broken sky at 701 meters,Greater than 10 km,190 degrees at 11 knots,18,12,1017
+SVBC,General José Antonio Anzoategui International Airport,25 Apr 2021 22:02,,,,Calm,,, mil
+SVMI,Simón Bolívar International Airport,25 Apr 2021 22:02,,,,Calm,,, mil
+TFFR,Pointe-à-Pitre Le Raizet,25 Apr 2021 22:30,Dry,A few at 1036 meters,Greater than 10 km,110 degrees at 7 knots,26,19,1014
+TJSJ,Luis Munoz Marin International Airport,25 Apr 2021 21:56,Dry,Scattered at 762 meters; scattered at 1067 meters; scattered at 1829 meters,16093 meters,70 degrees at 16 knots,28,21,29.9
+TNCM,Princess Juliana International Airport,25 Apr 2021 22:00,Dry,A few at 549 meters,Greater than 10 km,90 degrees at 8 knots,27,22,1015
+UAAA,Almaty Airport,25 Apr 2021 22:30,Dry,Scattered at 1524 meters  cumulonimbus; broken sky at 3048 meters,Greater than 10 km,260 degrees at 3 knots,11,2,1021
+UACC,Astana International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,220 degrees at 5 knots,7,3,1021
+UAFM,Manas International Airport,w at UCFM:,Clouds,Few clouds, 20%,200 at 4kts,10, 9.2,1022
+UAKK,Sary-Arka Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,50 degrees at 3 knots,-4,-7,1023
+UBBB,Heydar Aliyev International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,310 degrees at 2 knots,11,8,1015
+UDYZ,Zvartnots International Airport,25 Apr 2021 22:30,Dry,Scattered at 1219 meters  cumulonimbus,Greater than 10 km,40 degrees at 7 knots,19,7,1013
+UGTB,Tbilisi International Airport,25 Apr 2021 22:30,Dry,A few at 1036 meters; broken sky at 1554 meters,Greater than 10 km,Variable at 4 knots,16,13,1016
+UHHH,Khabarovsk-Novy Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,280 degrees at 3 knots,5,-9,1018
+UKBB,Boryspil International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,270 degrees at 2 knots,3,2,1016
+UKFF,Simferopol International Airport,w at UKFF:,Clouds,Overcast clouds, 99%,70 at 6kts,7.8, 5.7,1016
+UKHH,Kharkiv International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,150 degrees at 2 knots,4,-1,1016
+UKOO,Odessa International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,190 degrees at 4 knots,9,3,1016
+ULLI,Pulkovo Airport,25 Apr 2021 22:30,Light showers of rain,Broken sky at 244 meters; broken sky at 579 meters  cumulonimbus; overcast sky at 914 meters,Greater than 10 km,270 degrees at 5 knots,3,1,1005
+UMMS,Minsk National Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,240 degrees at 2 knots,-1,-2,1014
+UNKL,Yemelyanovo Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,Calm,4,-8,1024
+UNNT,Tolmachevo Airport,25 Apr 2021 22:30,Dry,No significant clouds are observed,9000 meters,120 degrees at 2 knots,3,-6,1026
+URSS,Sochi International Airport,25 Apr 2021 22:30,Light showers of rain,Broken sky at 244 meters; overcast sky at 1097 meters  cumulonimbus,Greater than 10 km,190 degrees at 3 knots,11,9,1015
+USSS,Koltsovo Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,200 degrees at 2 knots,1,-1,1013
+UTAA,Ashgabat International Airport,25 Apr 2021 22:00,Dry,No significant clouds are observed,Greater than 10 km,90 degrees at 4 knots,19,7,1013
+UTTT,Tashkent International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,50 degrees at 6 knots,15,6,1019
+UUDD,Domodedovo International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,250 degrees at 5 knots,3,-4,1010
+UUEE,Sheremetyevo International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,240 degrees at 6 knots,2,-3,1009
+UUWW,Vnukovo International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,240 degrees at 6 knots,2,-4,1010
+UWKD,Kazan International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,230 degrees at 6 knots,3,-2,1009
+UWUU,Ufa International Airport,25 Apr 2021 22:30,Dry,Scattered at 1219 meters,Greater than 10 km,200 degrees at 5 knots,2,-2,1015
+UWWW,Kurumoch International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,240 degrees at 5 knots,5,-4,1016
+VABB,Chhatrapati Shivaji International Airport,25 Apr 2021 22:30,Mist,A few at 610 meters; scattered at 3048 meters,3000 meters,250 degrees at 5 knots,30,27,1007
+VAGO,Dabolim Airport,w at VOGO:,Clouds,Broken clouds, 83%,31 at 6kts,26.1, 26.1,1007
+VCBI,Bandaranaike International Colombo Airport,25 Apr 2021 22:10,In the vicinity  thunderstorms,A few at 549 meters; a few at 610 meters  cumulonimbus,Greater than 10 km,Variable at 3 knots,25,24,1008
+VDPP,Phnom Penh International Airport,25 Apr 2021 22:30,Dry,Scattered at 518 meters,9000 meters,130 degrees at 2 knots,26,25,1007
+VDSR,Siem Reap International Airport,25 Apr 2021 22:30,Dry,Scattered at 457 meters,9000 meters,Calm,26,26,1007
+VECC,Netaji Subhash Chandra Bose International Airport,25 Apr 2021 22:30,Haze,A few at 3048 meters,2800 meters,200 degrees at 5 knots,29,24,1005
+VGZR,Hazrat Shahjalal International Airport,w at VGHS:,Haze,Haze, 77%,270 at 3kts,27, 28.8,1006
+VHHH,Hong Kong International Airport,25 Apr 2021 22:30,Dry,A few at 610 meters; scattered at 1219 meters,Greater than 10 km,90 degrees at 16 knots,23,19,1013
+VIAR,Sri Guru Ram Dass Jee International Airport,25 Apr 2021 22:30,Haze,No significant clouds are observed,3500 meters,Calm,19,12,1008
+VIDP,Indira Gandhi International Airport,25 Apr 2021 22:30,Haze,No significant clouds are observed,2200 meters,210 degrees at 3 knots,22,12,1008
+VMMC,Macau International Airport,25 Apr 2021 22:30,Dry,A few at 549 meters; scattered at 1067 meters,Greater than 10 km,80 degrees at 16 knots,24,20,1013
+VNKT,Tribhuvan International Airport,25 Apr 2021 21:50,Dry,A few at 457 meters,7000 meters,Variable at 2 knots,16,10,1016
+VOCI,Cochin International Airport,25 Apr 2021 22:30,Mist,Scattered at 366 meters; broken sky at 2438 meters,3500 meters,40 degrees at 2 knots,27,24,1008
+VOCL,Calicut International Airport,25 Apr 2021 22:30,Mist,Scattered at 366 meters; scattered at 2438 meters,4000 meters,240 degrees at 2 knots,25,23,1008
+VOMM,Chennai International Airport,25 Apr 2021 22:30,Dry,Scattered at 610 meters,6000 meters,Variable at 2 knots,28,24,1007
+VOTV,Trivandrum International Airport,25 Apr 2021 22:30,Mist,A few at 457 meters; scattered at 2438 meters,3000 meters,Calm,29,26,1007
+VRMM,Malé International Airport,25 Apr 2021 22:00,Dry,A few at 518 meters  towering cumulus,Greater than 10 km,250 degrees at 7 knots,29,25,1008
+VTBD,Don Mueang International Airport,25 Apr 2021 22:30,Dry,A few at 610 meters,Greater than 10 km,120 degrees at 2 knots,27,24,1008
+VTBS,Suvarnabhumi Airport,25 Apr 2021 22:30,Dry,A few at 610 meters,Greater than 10 km,110 degrees at 3 knots,28,25,1007
+VTCC,Chiang Mai International Airport,25 Apr 2021 22:30,Dry,Scattered at 1067 meters,Greater than 10 km,320 degrees at 4 knots,23,21,1010
+VTSP,Phuket International Airport,25 Apr 2021 22:30,Dry,A few at 610 meters; broken sky at 3048 meters,Greater than 10 km,Variable at 2 knots,25,25,1008
+VVDN,Da Nang International Airport,25 Apr 2021 22:30,Mist,Scattered at 213 meters; broken sky at 1524 meters,4000 meters,160 degrees at 4 knots,27,26,1009
+VVNB,Noi Bai International Airport,25 Apr 2021 22:30,Light rain,Broken sky at 244 meters; broken sky at 457 meters,6000 meters,110 degrees at 9 knots,25,25,1008
+VVTS,Tan Son Nhat International Airport,25 Apr 2021 22:30,Dry,A few at 518 meters; scattered at 1524 meters,Greater than 10 km,220 degrees at 3 knots,26,25,1009
+VYMD,Mandalay International Airport,25 Apr 2021 11:30,Thunderstorms,Broken sky at 610 meters; a few at 762 meters  cumulonimbus; broken sky at 3658 meters,6000 meters,40 degrees at 7 knots,37,21,1002
+VYYY,Yangon International Airport,25 Apr 2021 22:30,Dry,Scattered at 610 meters; a few at 914 meters  towering cumulus; scattered at 3658 meters,7000 meters,220 degrees at 5 knots,26,25,1007
+WAAA,Hasanuddin International Airport,25 Apr 2021 22:30,Dry,A few at 610 meters,Greater than 10 km,140 degrees at 3 knots,23,23,1011
+WADD,Ngurah Rai (Bali) International Airport,25 Apr 2021 22:00,Dry,A few at 518 meters,Greater than 10 km,70 degrees at 3 knots,25,22,1011
+WAJJ,Sentani International Airport,25 Apr 2021 22:30,Dry,Scattered at 305 meters,Greater than 10 km,Calm,25,23,1012
+WARR,Juanda International Airport,25 Apr 2021 22:00,Haze,A few at 610 meters,5000 meters,30 degrees at 2 knots,26,25,1011
+WBSB,Brunei International Airport,25 Apr 2021 22:30,Dry,A few at 152 meters; a few at 457 meters  cumulonimbus; scattered at 4267 meters; broken sky at 8534 meters,Greater than 10 km,200 degrees at 4 knots,25,25,1011
+WIII,Soekarno-Hatta International Airport,25 Apr 2021 22:30,Haze,No significant clouds are observed,5000 meters,200 degrees at 5 knots,26,23,1010
+WMKK,Kuala Lumpur International Airport,25 Apr 2021 22:30,Dry,A few at 305 meters; a few at 518 meters  cumulonimbus,Greater than 10 km,230 degrees at 3 knots,24,23,1009
+WSSS,Singapore Changi Airport,25 Apr 2021 22:30,Dry,A few at 488 meters; broken sky at 9144 meters,Greater than 10 km,Variable at 3 knots,28,26,1009
+YBBN,Brisbane International Airport,25 Apr 2021 22:30,Dry,A few at 762 meters,Greater than 10 km,210 degrees at 8 knots,19,15,1023
+YMML,Melbourne International Airport,25 Apr 2021 22:30,Dry,A few at 366 meters; broken sky at 1097 meters,Greater than 10 km,270 degrees at 6 knots,12,10,1027
+YPAD,Adelaide International Airport,25 Apr 2021 22:30,Dry,A few at 183 meters,Greater than 10 km,50 degrees at 4 knots,11,9,1028
+YPPH,Perth International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,60 degrees at 9 knots,15,11,1019
+YSCB,Canberra International Airport,25 Apr 2021 22:30,Dry,Nil cloud detected,Greater than 10 km,Calm,6,6,1026
+YSSY,Sydney Kingsford Smith International Airport,25 Apr 2021 22:30,Dry,A few at 1219 meters,Greater than 10 km,320 degrees at 8 knots,17,12,1025
+ZBAA,Beijing Capital International Airport,25 Apr 2021 22:30,Light rain,No significant clouds are observed,Greater than 10 km,140 degrees at 2 knots,13,1,1018
+ZBHH,Baita International Airport,25 Apr 2021 22:00,Mist,A few at 1006 meters,4000 meters,190 degrees at 2 knots,8,7,1017
+ZBTJ,Tianjin Binhai International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,50 degrees at 1 knots,11,5,1018
+ZBYN,Taiyuan Wusu Airport,25 Apr 2021 22:30,Mist,No significant clouds are observed,5000 meters,Calm,10,7,1019
+ZGGG,Guangzhou Baiyun International Airport,25 Apr 2021 22:30,Dry,Overcast sky at 610 meters,Greater than 10 km,70 degrees at 3 knots,22,19,1013
+ZGHA,Changsha Huanghua International Airport,25 Apr 2021 22:00,Mist,A few at 183 meters; scattered at 732 meters,2500 meters,350 degrees at 3 knots,15,15,1017
+ZGKL,Guilin Liangjiang International Airport,25 Apr 2021 22:00,Dry,A few at 396 meters; scattered at 701 meters; overcast sky at 1219 meters,Greater than 10 km,Variable at 1 knots,17,15,1015
+ZGNN,Nanning Wuxu Airport,25 Apr 2021 22:00,Dry,Scattered at 396 meters; a few at 1006 meters  cumulonimbus; broken sky at 1006 meters,Greater than 10 km,50 degrees at 3 knots,20,19,1011
+ZGSZ,Shenzhen Bao'an International Airport,25 Apr 2021 22:00,Dry,Scattered at 701 meters; overcast sky at 1402 meters,Greater than 10 km,40 degrees at 3 knots,23,19,1012
+ZHCC,Zhengzhou Xinzheng International Airport,25 Apr 2021 22:00,Dry,Overcast sky at 1219 meters,7000 meters,340 degrees at 2 knots,13,9,1019
+ZHHH,Wuhan Tianhe International Airport,25 Apr 2021 22:00,Mist,Overcast sky at 1219 meters,3800 meters,Variable at 1 knots,14,13,1018
+ZJHK,Haikou Meilan International Airport,25 Apr 2021 22:00,Dry,A few at 396 meters; scattered at 792 meters; broken sky at 1219 meters,Greater than 10 km,140 degrees at 3 knots,27,25,1009
+ZJSY,Sanya Phoenix International Airport,25 Apr 2021 22:00,Dry,A few at 610 meters; scattered at 1524 meters,Greater than 10 km,140 degrees at 2 knots,28,25,1010
+ZLXY,Xi'an Xianyang International Airport,25 Apr 2021 22:00,Fog,Vertical visibility at 91 meters,250 meters,250 degrees at 2 knots,10,9,1020
+ZMUB,Chinggis Khaan International Airport,25 Apr 2021 22:30,Light snow,A few at 701 meters; broken sky at 914 meters,Greater than 10 km,350 degrees at 5 knots,-1,-4,1002
+ZPPP,Kunming Changshui International Airport,25 Apr 2021 22:00,Dry,A few at 701 meters,Greater than 10 km,30 degrees at 3 knots,14,10,1021
+ZSAM,Xiamen Gaoqi International Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,30 degrees at 3 knots,20,14,1015
+ZSFZ,Fuzhou Changle International Airport,25 Apr 2021 22:00,Dry,Scattered at 701 meters,Greater than 10 km,20 degrees at 7 knots,20,15,1017
+ZSHC,Hangzhou Xiaoshan International Airport,25 Apr 2021 22:30,Mist,Scattered at 305 meters,4000 meters,80 degrees at 2 knots,17,16,1018
+ZSJN,Yaoqiang Airport,w at ZSJN:,Clouds,Overcast clouds, 99%,230 at 1kts,12.2, 11.8,1012
+ZSNB,Ningbo Lishe International Airport,25 Apr 2021 22:00,Mist,No significant clouds are observed,4500 meters,Variable at 1 knots,15,15,1019
+ZSNJ,Nanjing Lukou Airport,25 Apr 2021 22:00,Mist,Scattered at 152 meters,2500 meters,90 degrees at 2 knots,17,17,1018
+ZSPD,Shanghai Pudong International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,70 degrees at 3 knots,17,13,1019
+ZSSS,Shanghai Hongqiao International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,110 degrees at 2 knots,18,10,1019
+ZUCK,Chongqing Jiangbei International Airport,25 Apr 2021 22:00,Light rain; mist,A few at 91 meters; scattered at 274 meters; overcast sky at 1006 meters,3000 meters,160 degrees at 1 knots,15,15,1017
+ZUGY,Longdongbao Airport,25 Apr 2021 22:00,Light showers of rain,Scattered at 274 meters; broken sky at 457 meters; a few at 701 meters  towering cumulus; overcast sky at 914 meters,8000 meters,40 degrees at 2 knots,11,10,1019
+ZUUU,Chengdu Shuangliu International Airport,25 Apr 2021 22:00,Dry,Broken sky at 1006 meters,Greater than 10 km,50 degrees at 2 knots,17,14,1017
+ZWWW,Ürümqi Diwopu International Airport,25 Apr 2021 22:30,Dry,Clear skies,Greater than 10 km,150 degrees at 1 knots,4,-9,1026
+ZYHB,Taiping Airport,25 Apr 2021 22:00,Dry,Clear skies,Greater than 10 km,130 degrees at 2 knots,5,-3,1019
+ZYTL,Zhoushuizi Airport,25 Apr 2021 22:30,Dry,No significant clouds are observed,8000 meters,280 degrees at 1 knots,9,4,1018
+ZYTX,Taoxian Airport,25 Apr 2021 22:30,Dry,No significant clouds are observed,7000 meters,50 degrees at 2 knots,8,0,1018
